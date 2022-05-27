@@ -1,6 +1,6 @@
 # SpaceX
 
-This project is a simplified version of the SpaceX website, using their API. The objective is to show the main rockets they use and their respective characteristics, as well as the latest launches made.
+This project is a simplified version of the SpaceX website, using their API. The objective is to show the main rockets that are used by them and their respective characteristics, as well as the latest launches made.
 
 ## Getting Started with Create React App
 
